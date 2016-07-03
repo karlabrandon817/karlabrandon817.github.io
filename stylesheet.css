@@ -54,7 +54,7 @@ a:hover {
 
 .left {
   position: relative;
-  float: right;
+  float: left;
   margin-top: 50px;
   width: 88%;
   height: 1000px;
