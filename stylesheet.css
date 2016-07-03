@@ -48,7 +48,7 @@ h4 {
 li {
   list-style-type: square;
   font-family: Arial, sans-serif;
-  font-size: 13px;
+  font-size: 14px;
   font-weight: normal;
 }
 
@@ -56,6 +56,11 @@ a:hover {
   font-weight: bold;
 }
 
+p {
+  font-weight: bold;
+  font-family: Arial, sans-serif;
+  font-size: 15px;
+}
 .right {
   position: relative;
   float: right;
