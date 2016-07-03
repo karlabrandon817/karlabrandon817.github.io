@@ -8,7 +8,7 @@ div {
   width: 100%;
   margin-top: -20px;
   height: 65px;
-  background-color: #f0fff0;
+  background-color: #b0e0e6;
   margin-bottom: 10px;
 }
 
@@ -41,12 +41,12 @@ h4 {
   margin-right: 5px;
   margin-top: -8px;
   font-family: Verdana, sans-serif;
-  color: #000000;
+  color: #fffafa;
 }
 
 ul {
-  font-size: 14px;
-  font-style: bold;
+  font-size: 16px;
+  font-weight: bold;
 }
 
 li {
@@ -74,7 +74,7 @@ a:hover {
   clear: both;
   font-family: Arial, sans-serif;
   font-size 14px;
-  color: #2f4f4f
+  color: #b0e0e6
   text-align: center;
 }
 
