@@ -46,6 +46,7 @@ h4 {
 
 li {
   list-style-type: square;
+  font-weight: normal;
 }
 
 a:hover {
