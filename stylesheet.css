@@ -47,6 +47,9 @@ h4 {
 
 li {
   list-style-type: square;
+  font-family: Arial, sans-serif;
+  font-size: 13px;
+  font-weight: normal;
 }
 
 a:hover {
