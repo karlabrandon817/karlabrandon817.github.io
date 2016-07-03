@@ -4,15 +4,30 @@ div {
 
 #header {
   z-index: 1;
-  font-family: Arial, sans-serif;
-  font-size: 14px;
-  color: #2f4f4f;
   position: fixed;
   width: 97.5%;
   margin-top: -20px;
   height: 60px;
   background-color: #faebd7;
   margin-bottom: 10px;
+}
+
+#name {
+  float: left;
+  margin-left: 5px;
+  padding-top: 5px;
+  font-size: 16px;
+  font-family: Arial, sans-serif;
+  color: #2f4f4f;
+}
+
+#email {
+  float: right;
+  margin-right: 5px;
+  padding-top: 5px;
+  font-size: 16px;
+  font-family: Arial, sans-serif;
+  color: #2f4f4f;
 }
 
 #footer {
@@ -23,4 +38,10 @@ div {
   font-size 14px;
   color: #2f4f4f
   text-align: center;
+}
+
+#footer p {
+  position: relative;
+  padding-top: 15px;
+}
 }
