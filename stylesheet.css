@@ -16,7 +16,7 @@ div {
 }
 
 #footer {
-  position: fixed;
+  position: relative;
   height: 50px;
   background-color: #faebd7;
   font-family: Arial, sans-serif;
