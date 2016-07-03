@@ -21,6 +21,10 @@ div {
   color: #2f4f4f;
 }
 
+p {
+  font-color: #000000;
+  font-size: 14px
+}
 #email {
   float: right;
   margin-right: 5px;
