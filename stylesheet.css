@@ -44,6 +44,11 @@ h4 {
   color: #000000;
 }
 
+ul {
+  font-size: 14px;
+  font-style: bold;
+}
+
 li {
   list-style-type: square;
 }
