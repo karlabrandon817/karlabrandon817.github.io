@@ -17,7 +17,7 @@ div {
   margin-left: 5px;
   padding-top: 5px;
   font-size: 20px;
-  font-family: Arial bold, sans-serif;
+  font-family: Arial, sans-serif;
   color: #2f4f4f;
 }
 
@@ -25,14 +25,14 @@ div {
   float: right;
   margin-right: 5px;
   padding-top: 5px;
-  font-size: 16px;
+  font-size: 20px;
   font-family: Arial, sans-serif;
   color: #2f4f4f;
 }
 
 h4 {
   margin-left: 5px;
-  margin-botton: 15px;
+  margin-bottom: 15px;
   font-family: Arial, sans-serif;
 }
 
@@ -45,7 +45,7 @@ h4 {
 }
 
 li {
-  list-style-type: star;
+  list-style-type: square;
 }
 
 a:hover {
@@ -61,10 +61,12 @@ a:hover {
   background-color: #dcdcdc;
   margin-bottom: 10px;
 }
+
 #footer {
   position: relative;
   height: 50px;
   background-color: #faebd7;
+  clear: both;
   font-family: Arial, sans-serif;
   font-size 14px;
   color: #2f4f4f
