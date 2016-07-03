@@ -34,6 +34,7 @@ h4 {
   margin-left: 5px;
   margin-bottom: 15px;
   font-family: Arial, sans-serif;
+  font-weight: bold;
 }
 
 .right p{
@@ -46,7 +47,6 @@ h4 {
 
 li {
   list-style-type: square;
-  font-weight: normal;
 }
 
 a:hover {
