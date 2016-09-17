@@ -54,7 +54,7 @@ h4 {
 
   font-family: Arial, sans-serif;
   font-weight: bold;
-  margin: 8px 5px 8px auto;
+  margin-left: 5px;
 }
 h3 {
   font-family: Arial, sans-serif;
@@ -83,7 +83,7 @@ p {
   font-size: 15px;
 }
 .right {
-  position: relative;
+  position: fixed;
   float: right;
   margin-top: 50px;
   width: 100%;
