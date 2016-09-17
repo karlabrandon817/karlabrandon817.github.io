@@ -3,14 +3,12 @@ div {
 }
 
 #header {
-  z-index: 0;
   position: relative;
   width: 100%;
   margin-top: -20px;
   height: 75px;
   background-color: #b0e0e6;
-  padding-bottom: .5px;
-  margin-bottom: 1px;
+ 
 }
 
 #name {
