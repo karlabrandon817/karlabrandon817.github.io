@@ -4,7 +4,7 @@ div {
 
 #header {
   z-index: 1;
-  position: fixed;
+  position: relative;
   width: 100%;
   margin-top: -20px;
   height: 67px;
@@ -83,7 +83,7 @@ p {
   font-size: 15px;
 }
 .right {
-  position: fixed;
+  position: relative;
   float: right;
   margin-top: 50px;
   width: 100%;
