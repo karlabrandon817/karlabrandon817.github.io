@@ -34,11 +34,11 @@ div {
   color: hsla(201, 37%, 9%, 0.83);
   
 }
-.prime-academy {
+#prime-academy {
   text-decoration: none;
   color: rgb(0,0,0);
 }
-.prime-academy:hover{
+#prime-academy:hover{
   text-decoration: underline;
   color: hsla(201, 37%, 9%, 0.83);
 }
