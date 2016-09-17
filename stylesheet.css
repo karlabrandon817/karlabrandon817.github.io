@@ -56,7 +56,9 @@ h4 {
   font-family: Arial, sans-serif;
   font-weight: bold;
 }
-
+h3 {
+  font-family: Arial, sans-serif;
+}
 .right p{
   margin-left: 5px;
   margin-right: 5px;
