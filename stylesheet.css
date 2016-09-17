@@ -11,7 +11,9 @@ div {
   background-color: #b0e0e6;
   margin-bottom: 10px;
 }
-
+#objective {
+  margin-bottom: 2px;
+}
 #name {
   float: left;
   margin-left: 5px;
