@@ -100,10 +100,11 @@ footer {
   font-size 14px;
   color: #000000;
   text-align: center;
+  margin-top: 4px;
 }
 
 footer p {
   position: relative;
-  margin-top: 15px;
+  padding-top: 15px;
 }
 }
